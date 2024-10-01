@@ -1,7 +1,7 @@
 ---
 title: "Distribution-Free Finite-Sample Guarantees and Split Conformal Prediction"
-collection: preprints
-category: manuscripts
+collection: publications
+category: preprints
 permalink: /publication/dissertation
 excerpt: 'This paper is on the distribution-free finite-sample guarantees provided by split conformal prediction. It shows an analytical result for the distribution of coverage of a split conformal prediction set.'
 date: 2022-10-26
