@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Roel Hulsman"
 title_separator          : "-"
 name                     : &name "Roel Hulsman"
-description              : &description "PhD Student on Causal Machine Learning"
+description              : &description "PhD Candidate Causal Machine Learning"
 url                      : https://roelhulsman.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "roelhulsman/roelhulsman.github.io"
@@ -24,7 +24,7 @@ author:
   avatar           : "roel.jpg"
   name             : "Roel Hulsman"
   pronouns         : # example: "she/her"  
-  bio              : "PhD Student on Causal Machine Learning"
+  bio              : "PhD Candidate Causal Machine Learning"
   location         : "Amsterdam, Netherlands"
   employer         : "University of Amsterdam"
   uri              : # URL
@@ -102,7 +102,7 @@ comments:
   facebook:
     appid                :
     num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    colorscheme          : "dark" # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
   branch                 : "gh-pages" # "master", "gh-pages"
@@ -149,9 +149,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          :  "G-NQKFQ1GJFV"
 
 
 # Reading Files
