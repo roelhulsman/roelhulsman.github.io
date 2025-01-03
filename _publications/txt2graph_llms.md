@@ -4,7 +4,7 @@ collection: publications
 category: workshops
 permalink: /publication/txt2graph_llms
 excerpt: ''
-date: 2024
+date: 2024-09-03
 venue: 'Third International Workshop on Knowledge Graph Generation from Text'
 slidesurl: 
 paperurl: 'https://ceur-ws.org/Vol-3747/text2kg_paper10.pdf'

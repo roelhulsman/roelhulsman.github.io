@@ -4,7 +4,7 @@ collection: publications
 category: preprints
 permalink: /publication/dissertation
 excerpt: ''
-date: 2022
+date: 2022-10-26
 venue: 'ArXiv'
 slidesurl: 
 paperurl: 'https://arxiv.org/pdf/2210.14735'
